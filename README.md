@@ -25,7 +25,7 @@ Collected strategies from hands-on experience in analog, memory, and SoC layout 
 
 - SoC Physical Design (floorplanning, place & route, timing closure)
 - Deep submicron analog/mixed-signal layout
-- Memory layout: SRAM, ROM, and compiler-driven blocks
+- Memory layout: SRAM, RF, and compiler-driven blocks
 - LDE mitigation and layout-aware simulation strategies
 - Cadence (Innovus, Genus, Virtuoso), Calibre, ICV, DV-aware floorplanning
 
@@ -33,9 +33,8 @@ Collected strategies from hands-on experience in analog, memory, and SoC layout 
 
 ## Background
 
-Currently leading SoC physical design for a deep submicron partition.  
-Previous roles include analog layout and memory compiler design in both high-volume and R&D environments.  
-Trained in matching theory, but grounded in what works across LVS, DRC, and silicon debug.
+Currently SoC Physical Design Engineer for a deep submicron partitions.  
+Previous roles include analog layout and memory compiler design in both high-volume and R&D environments.
 
 ---
 
