@@ -1,4 +1,6 @@
-# Tamra Hargus — SoC Physical Design & Analog/Memory IC Layout Engineer
+# Tamra Hargus
+
+# SoC Physical Design & Analog/Memory IC Layout Engineer
 
 **SoC Physical Design Engineer** specializing in **Analog Hard IPs (HIPs)**, **Custom & Compiler-Generated Memory Macros**, and **Standard Cell Library Development**.  
 Skilled in STA, P&R, DRC/LVS, and automation scripting to deliver advanced-node designs that meet stringent PPA, reliability, and manufacturing targets.
