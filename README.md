@@ -35,4 +35,18 @@ Designed and implemented multiple Standard Cell Libraries, ensuring compliance w
 
 ## Contact
 - LinkedIn: [linkedin.com/in/tamrahargus](https://linkedin.com/in/tamrahargus)  
-- GitHub: [github.com/tamrahargus](https://github.com/tamrahargus)
+- GitHub: [github.com/tamrahargus](https://github.com/Requirements.
+
+---
+
+## Featured Work
+A quick look at my most relevant repositories in SoC Physical Design and Analog/Memory IC Layout.
+## Pinned Repositories
+- **[soc-physical-design-notes](https://github.com/tamrahargus/soc-physical-design-notes)** — Strategies, workflows, and insights for SoC physical design, from floorplanning to sign-off.
+- **[ic-layout-notes](https://github.com/tamrahargus/ic-layout-notes)** — Techniques for symmetry, matching, density control, and DRC/LVS compliance in IC layout.
+- **[semiconductor-career-journal](https://github.com/tamrahargus/semiconductor-career-journal)** — A running log of projects, skills, and lessons learned across my semiconductor career.
+- **[tamra-hargus-portfolio](https://github.com/tamrahargus/tamra-hargus-portfolio)** — A consolidated portfolio highlighting engineering, design, and technical writing projects.
+- **[writing-portfolio](https://github.com/tamrahargus/writing-portfolio)** — Technical articles on SoC physical design, analog/memory IC layout, and layout-dependent effects.
+- **[tamrahargus](https://github.com/tamrahargus/tamrahargus)** — Personal repository for experiments, tests, and general development work.
+
+
