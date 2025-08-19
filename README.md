@@ -19,23 +19,9 @@ Skilled in STA, P&R, DRC/LVS, and automation scripting to deliver advanced-node 
 - Mentor Calibre  
 - Other industry-standard EDA tools
 
-## Current Projects
-- **Writing Portfolio** — Technical essays and layout documentation on SoC physical design, AMS integration, and layout-dependent effects.  
-  [View the repo →](https://github.com/tamrahargus/writing-portfolio)
-- **Layout-Dependent Effects in Analog IC Layout** — WPE, STI stress, dummy fill, and how geometry impacts transistor behavior.  
-  [Read the article →](https://github.com/tamrahargus/writing-portfolio/blob/main/layout-dependent-effects.md)
-- **IC Layout Notes** — Strategies for analog, memory, and SoC layout: symmetry, matching, density management, and verification alignment.  
-  [View the repo →](https://github.com/tamrahargus/ic-layout-notes)
-
 ## Background
 Delivered multiple advanced-node SoC Partitions, Analog Hard IPs (HIPs), and both Custom and Compiler-Generated Memory Macros from design to tapeout.  
 Designed and implemented multiple Standard Cell Libraries, ensuring compliance with PPA, Reliability, and Manufacturing Requirements.
-
----
-
-## Contact
-- LinkedIn: [linkedin.com/in/tamrahargus](https://linkedin.com/in/tamrahargus)  
-- GitHub: [github.com/tamrahargus](https://github.com/Requirements.
 
 ---
 
@@ -49,5 +35,8 @@ Designed and implemented multiple Standard Cell Libraries, ensuring compliance w
 | [**tamra-hargus-portfolio**](https://github.com/tamrahargus/tamra-hargus-portfolio) | Portfolio of engineering, design, and technical writing projects. |
 | [**writing-portfolio**](https://github.com/tamrahargus/writing-portfolio) | Articles on SoC design, IC layout, and layout-dependent effects. |
 
+---
 
-
+## Contact
+- LinkedIn: [linkedin.com/in/tamrahargus](https://linkedin.com/in/tamrahargus)  
+- GitHub: [github.com/tamrahargus](https://github.com/tamrahargus)
