@@ -36,7 +36,6 @@ My focus has been on building layouts that balance precision and efficiency, whi
 |------------|-------------|
 | [**soc-physical-design-notes**](https://github.com/tamrahargus/soc-physical-design-notes) | SoC physical design workflows, floorplanning, routing, and sign-off notes. |
 | [**ic-layout-notes**](https://github.com/tamrahargus/ic-layout-notes) | Analog & memory IC layout techniques, matching, symmetry, and DRC/LVS tips. |
-| [**semiconductor-career-journal**](https://github.com/tamrahargus/semiconductor-career-journal) | Log of skills, projects, and lessons learned in semiconductor engineering. |
 | [**tamra-hargus-portfolio**](https://github.com/tamrahargus/tamra-hargus-portfolio) | Portfolio of engineering, design, and technical writing projects. |
 | [**writing-portfolio**](https://github.com/tamrahargus/writing-portfolio) | Articles on SoC design, IC layout, and layout-dependent effects. |
 
