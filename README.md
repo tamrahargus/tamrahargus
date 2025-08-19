@@ -1,31 +1,36 @@
-# Tamra Hargus
+# Tamra Hargus  
+**SoC Physical Design & IC Layout Engineer**
 
-# SoC Physical Design & Analog/Memory IC Layout Engineer
+I focus on delivering physical design and layout that are reliable and reproducible.  
+I document what I learn, share study guides, and write about the challenges of SoC physical design and IC layout.  
 
-**SoC Physical Design Engineer** specializing in **Analog Hard IPs (HIPs)**, **Custom & Compiler-Generated Memory Macros**, and **Standard Cell Library Development**.  
+Specializing in **Analog Hard IPs (HIPs)**, **Custom & Compiler-Generated Memory Macros**, and **Standard Cell Library Development**.  
 Skilled in STA, P&R, DRC/LVS, and automation scripting to deliver advanced-node designs that meet stringent PPA, reliability, and manufacturing targets.
 
 ---
 
-## Core Expertise
-- **SoC Physical Design:** Floorplanning, place & route, clock tree synthesis, timing closure, power optimization
-- **Analog & Memory Layout:** Custom analog blocks, SRAM, ROM, high-density memory macros, parasitic extraction
-- **Verification:** STA, DRC, LVS, IR drop analysis, EM verification
-- **Automation:** TCL, Python, and shell scripting for flow efficiency
-
-## Tools & Platforms
-- Cadence Innovus / Virtuoso / Genus  
-- Synopsys ICC2 / PrimeTime / ICV  
-- Mentor Calibre  
-- Other industry-standard EDA tools
-
 ## Background
-Delivered multiple advanced-node SoC Partitions, Analog Hard IPs (HIPs), and both Custom and Compiler-Generated Memory Macros from design to tapeout.  
-Designed and implemented multiple Standard Cell Libraries, ensuring compliance with PPA, Reliability, and Manufacturing Requirements.
+Over the course of my career, I’ve taken SoC partitions, Analog Hard IPs, and both custom and compiler-generated memory macros from concept to tapeout.  
+I’ve also designed and implemented multiple standard cell libraries, ensuring every block meets performance, power, area, and manufacturability requirements.  
+My focus has been on building layouts that balance precision and efficiency, while keeping flows reproducible and sign-off ready.
 
 ---
 
-## 🔹 Featured Repositories
+## Core Expertise
+- **Designing** SoC floorplans, running place & route, clock tree synthesis, timing closure, and power optimization  
+- **Implementing** analog blocks, SRAM/ROM, and custom or compiler-generated memory macros with parasitic extraction  
+- **Verifying** designs with STA, DRC/LVS, IR drop, and EM analysis  
+- **Automating** flows and checks with TCL, Python, and shell scripting
+
+## Tools & Platforms
+- Cadence Innovus, Virtuoso, Genus  
+- Synopsys ICC2, PrimeTime, ICV  
+- Mentor Calibre  
+- Other industry-standard EDA tools
+
+---
+
+## Featured Repositories
 
 | Repository | Description |
 |------------|-------------|
@@ -38,5 +43,4 @@ Designed and implemented multiple Standard Cell Libraries, ensuring compliance w
 ---
 
 ## Contact
-- LinkedIn: [linkedin.com/in/tamrahargus](https://linkedin.com/in/tamrahargus)  
-- GitHub: [github.com/tamrahargus](https://github.com/tamrahargus)
+[LinkedIn](https://linkedin.com/in/tamrahargus) • [GitHub](https://github.com/tamrahargus)
